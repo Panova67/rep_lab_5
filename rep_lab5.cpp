@@ -15,7 +15,7 @@ int main() {
     
     //----------second area-----------
     if (discriminant > 0) {
-        //second-1
+        //second-1: change 18
         root1 = (-b + sqrt(discriminant)) / (2 * a);
         root2 = (-b - sqrt(discriminant)) / (2 * a);
         cout << "Roots are real and different." << endl;
